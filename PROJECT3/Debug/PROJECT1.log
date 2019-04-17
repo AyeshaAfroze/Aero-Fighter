@@ -1,0 +1,17 @@
+﻿Build started 3/29/2019 2:15:18 PM.
+     1>Project "H:\AERO FIGHTER1\PROJECT1\PROJECT1\PROJECT1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PROJECT1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         PROJECT1.vcxproj -> H:\AERO FIGHTER1\PROJECT1\Debug\PROJECT1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\PROJECT1.unsuccessfulbuild".
+         Touching "Debug\PROJECT1.lastbuildstate".
+     1>Done Building Project "H:\AERO FIGHTER1\PROJECT1\PROJECT1\PROJECT1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21
