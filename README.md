@@ -1,1 +1,1 @@
-Aero-Fighter is a fighter plane game having different levels and enemies.
+An adventurous aeroplane fighting game having multiple enemies in three different difficulty levels using iGraphics and C.
